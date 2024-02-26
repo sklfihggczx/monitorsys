@@ -1,0 +1,31 @@
+{
+  "name": "monitorsys-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+	"babel-core": "^6.22.1",
+	"babel-helper-vue-jsx-merge-props": "^2.0.3",
+	"babel-loader": "^7.1.1",
+	"babel-plugin-syntax-jsx": "^6.18.0",
+	"babel-plugin-transform-runtime": "^6.22.0",
+	"babel-plugin-transform-vue-jsx": "^3.5.0",
+	"babel-preset-env": "^1.3.2",
+	"babel-preset-stage-2": "^6.22.0",
+    "core-js": "^3.6.4",
+    "echarts": "^4.7.0",
+    "element-ui": "^2.13.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
